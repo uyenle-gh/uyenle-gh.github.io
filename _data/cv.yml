@@ -2,96 +2,86 @@
   type: map
   contents:
     - name: Full Name
-      value: Albert Einstein
+      value: Uyen Le
     - name: Date of Birth
-      value: 14th March 1879
+      value: 09/23/2002
+    - name: Email
+      value: le.uyen.app@gmail.com
+    - name: Address
+      value: Granville, OH 43023
+    - name: URL
+      value: https://uyenle-gh.github.io/uyenle-gh/
     - name: Languages
-      value: English, German
+      value: English, Vietnamese
+    - name: Summary
+      value: A self-motivated and resilient undergrad with a strong dedication to the development of AI-driven educational technologies. Currently seeking PhD opportunities for Fall 2024.
 
 - title: Education
   type: time_table
   contents:
-    - title: PhD
-      institution: University of Zurich, Zurich, Switzerland
-      year: 1905
-      description:
-        - Description 1.
-        - Description 2.
-        - title: Description 3.
-          contents:
-            - Sub-description 1.
-            - Sub-description 2.
-    - title: Federal teaching diploma
-      institution: Eidgenössische Technische Hochschule, Zurich, Switzerland
-      year: 1900
-      description:
-        - Description 1.
-        - Description 2.
+    - title: Bachelor of Science
+      institution: Denison University
+      year: 2023
+      description: Applied Mathematics & Computer Science
 
 - title: Experience
   type: time_table
   contents:
-    - title: Professor of Theoretical Physics
-      institution: Institute for Advanced Study, Princeton University
-      year: 1933 - 1955
+    - title: Part-time Research Intern
+      institution: Stanford University, Dubra Lab
+      year: Jul 2023 - Present
       description:
-        - Description 1.
-        - Description 2.
-        - title: Description 3.
-          contents:
-            - Sub-description 1.
-            - Sub-description 2.
-    - title: Visiting Professor
-      institution: California Institute of Technology, Pasadena, California, US
-      year: 1933
+        - Conduct research on Adaptive Optics Systems for retinal imaging, which involves real-time adjustments of scanners to rectify optical distortions and software solutions to generate high quality retinal images.
+        - Develop an automated image registration algorithm in Python, integrated with Cupy, to align snapshots of the retinas, reducing the need for manual work and accelerating data processing.
+    
+    - title: Software Engineer Intern
+      institution: NCR Corporation, Payments and Networks
+      year: May 2023 - Aug 2023
       description:
-        - Description 1.
-        - Description 2.
+        - Led the migration effort of NCR Payments Solutions built in Go and C++ to Azure Kubernetes Service, increasing the system scalability by 2x and achieving availability rate of 99.95%.
+        - Incorporated Helm and Argo CD to drive continuous delivery, reducing build time by 45% and errors by 75%.
+        - Streamlined the development process by creating Bash scripts to automate local dev environment setup.
 
-    - title: Director
-      institution: Kaiser Wilhelm Institute for Physics, Berlin, Germany.
-      year: 1917-1933
-
-    - title: Professor of Theoretical Physics
-      institution: Karl-Ferdinand University, Prague, Czechoslovakia
-      year: 1911 - 1917
+    - title: Research Fellow
+      institution: National Center for Supercomputing Application, SciAuth Project
+      year: Jan 2023 - Apr 2023
       description:
+        - Collaborated on a student-led research project in cybersecurity, built on prior work by the NSF SciTokens project. 
+        - Built a new module for the SciTokens library based on Python JSON Web Tokens to allow users to generate sample tokens with custom payloads from the command-line, enabling testing and experimentation in OAuth2 workflows.
+        - Incorporated Flask frameworks to demonstrate web token authorization within the SciTokens library.
 
-    - title: Associate Professor of Theoretical Physics
-      institution: University of Zurich, Zurich, Switzerland
-      year: 1909 - 1911
-
-- title: Open Source Projects
-  type: time_table
-  contents:
-    - title: <a href="https://github.com/alshedivat/al-folio">al-folio</a>
-      year: 2015-now
-      description: A beautiful, simple, clean, and responsive Jekyll theme for academics.
+    - title: Anderson Summer Research Scholar
+      institution: Denison University – Natural Language Processing Lab
+      year: Feb 2022 - Aug 2022
+      description:
+        - Fine-tuned three variants of BERT on SQuAD (Stanford Question Answering Dataset) and conducted extensive experiments to evaluate the robustness of current machine reading comprehension models.
+        - Identified the advantages of fine-tuning models on additional unanswerable questions in improving robustness against adversarial attacks, compared to those fine-tuned solely on answerable questions.
+        - Conducted extensive literature reviews, synthesized research findings to support key arguments, and actively participated in manuscript drafting of the publication.
 
 - title: Honors and Awards
   type: time_table
   contents:
-    - year: 1921
+    - year: 2023
       items: 
-        - Nobel Prize in Physics 
-        - Matteucci Medal
-    - year: 2029
+        - SciAuth Cybersecurity Research Fellowship at National Center for Supercomputing Applications
+        - Texas State Summer School in Mathematical Physics 
+        - Alice Hutchinson Lytle Award, awarded to the senior female with highest cumulative GPA in Math & CS
+        - Daniel Donald Bonar Mathematics and Computer Science Award, for engagement in department initiatives
+
+    - year: 2022
       items: 
-        - Max Planck Medal
+        - Grace Hopper Scholar by AnitaB.org
+        - Sigma Xi, The Scientific Research Honor Society
+        - Upsilon Pi Epsilon International Honor Society
+        - Chosaburo Kato Memorial Award, awarded to the most promising junior major in the department
+        - Forbes B. Wiley Award, to sophomores and juniors for Excellence in Math & CS
+        - 1st Place in Four College Math Contest 
 
 - title: Academic Interests
-  type: nested_list
-  contents:
-    - title: Topic 1.
-      items: 
-        - Description 1.
-        - Description 2.
-    - title: Topic 2.
-      items:
-        - Description 1.
-        - Description 2.
+  type: list
+  contents: Human-Computer Interaction, Artificial Intelligence, Computing Education, Educational Technology
 
 - title: Other Interests
   type: list
   contents:
-    - <u>Hobbies:</u> Hobby 1, Hobby 2, etc.
+    - <u>Hobbies:</u> Weightlifting, Yoga, Rock Climbing
