@@ -1,12 +1,6 @@
 github_users:
-  - torvalds
-  - alshedivat
+  - uyenle-gh
 
 github_repos:
-  - alshedivat/al-folio
-  - twbs/bootstrap
-  - jekyll/jekyll
-  - jquery/jquery
-  - FortAwesome/Font-Awesome
-  - jpswalsh/academicons
-  - mathjax/MathJax
+  - uyenle-gh/spec.boots
+  - sonqt/unanswerable-robustness
