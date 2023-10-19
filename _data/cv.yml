@@ -3,8 +3,6 @@
   contents:
     - name: Full Name
       value: Uyen Le
-    - name: Date of Birth
-      value: 09/23/2002
     - name: Email
       value: le.uyen.app@gmail.com
     - name: Address
@@ -19,10 +17,12 @@
 - title: Education
   type: time_table
   contents:
-    - title: Bachelor of Science
+    - title: Bachelor of Science, Applied Mathematics & Computer Science
       institution: Denison University
       year: 2023
-      description: Applied Mathematics & Computer Science
+      description: 
+      - <u>Relevant Courses:</u>  Artificial Intelligence, Parallel Computing, Computer Architecture, Database Design, Time Series Analysis, Applied Probability, Advanced Differential Equations, Complex & Real Analysis, Tilings
+      
 
 - title: Experience
   type: time_table
@@ -31,32 +31,29 @@
       institution: Stanford University, Dubra Lab
       year: Jul 2023 - Present
       description:
-        - Conduct research on Adaptive Optics Systems for retinal imaging, which involves real-time adjustments of scanners to rectify optical distortions and software solutions to generate high quality retinal images.
-        - Develop an automated image registration algorithm in Python, integrated with Cupy, to align snapshots of the retinas, reducing the need for manual work and accelerating data processing.
+        - Conduct research on Adaptive Optics Systems for retinal imaging
+        - Develop an automated image registration algorithm to align snapshots of the retinas.
     
     - title: Software Engineer Intern
       institution: NCR Corporation, Payments and Networks
       year: May 2023 - Aug 2023
       description:
-        - Led the migration effort of NCR Payments Solutions built in Go and C++ to Azure Kubernetes Service, increasing the system scalability by 2x and achieving availability rate of 99.95%.
-        - Incorporated Helm and Argo CD to drive continuous delivery, reducing build time by 45% and errors by 75%.
-        - Streamlined the development process by creating Bash scripts to automate local dev environment setup.
+        - Led the migration effort of NCR Payments Solutions built in Go and C++ to Azure Kubernetes Service.
+        - Incorporated Helm and Argo CD to drive continuous delivery.
 
     - title: Research Fellow
       institution: National Center for Supercomputing Application, SciAuth Project
       year: Jan 2023 - Apr 2023
       description:
-        - Collaborated on a student-led research project in cybersecurity, built on prior work by the NSF SciTokens project. 
-        - Built a new module for the SciTokens library based on Python JSON Web Tokens to allow users to generate sample tokens with custom payloads from the command-line, enabling testing and experimentation in OAuth2 workflows.
-        - Incorporated Flask frameworks to demonstrate web token authorization within the SciTokens library.
+        - Collaborated on a student-led research project in cybersecurity. 
+        - Built a new module for the SciTokens library to generate sample tokens with custom payloads from the command-line.
 
     - title: Anderson Summer Research Scholar
       institution: Denison University – Natural Language Processing Lab
       year: Feb 2022 - Aug 2022
       description:
-        - Fine-tuned three variants of BERT on SQuAD (Stanford Question Answering Dataset) and conducted extensive experiments to evaluate the robustness of current machine reading comprehension models.
-        - Identified the advantages of fine-tuning models on additional unanswerable questions in improving robustness against adversarial attacks, compared to those fine-tuned solely on answerable questions.
-        - Conducted extensive literature reviews, synthesized research findings to support key arguments, and actively participated in manuscript drafting of the publication.
+        - Fine-tuned three variants of BERT on SQuAD and experimented to evaluate the robustness of current machine reading comprehension models.
+        - Identified the advantages of fine-tuning models on additional unanswerable questions in improving robustness against adversarial attacks.
 
 - title: Honors and Awards
   type: time_table
@@ -83,5 +80,4 @@
 
 - title: Other Interests
   type: list
-  contents:
-    - <u>Hobbies:</u> Weightlifting, Yoga, Rock Climbing
+  contents: Weightlifting, Yoga, Rock Climbing
