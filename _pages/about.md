@@ -18,6 +18,8 @@ I am an undergraduate student at Denison University, pursuing a BS in Applied Ma
 
 My research interests revolve around the complex interplay between students and AI-assisted learning tools in the digital age. I am particularly intrigued by how these advanced technologies are reshaping the educational landscape, impacting both the learning and teaching experiences. My graduate study goal is to leverage the multifaceted aspects of this interaction to develop personalized learning systems and redesign assessment that not only reflect human abilities but also unlock human potentials.
 
+<strong>Keywords:</strong> Human-Computer Interaction, Computing Education, AI, Educational Technology
+
 <!-- Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
 
 Put your address / P.O. box / other info right below your picture. You can also disable any of these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.

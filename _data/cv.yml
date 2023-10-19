@@ -2,9 +2,9 @@
   type: map
   contents:
     - name: Full Name
-      value: Uyen Le
+      value: Uyen P. Le
     - name: Email
-      value: le.uyen.app@gmail.com
+      value: le_u1@denison.edu
     - name: Address
       value: Granville, OH 43023
     - name: URL
@@ -12,7 +12,7 @@
     - name: Languages
       value: English, Vietnamese
     - name: Summary
-      value: A self-motivated and resilient undergrad with a strong dedication to the development of AI-driven educational technologies. Currently seeking PhD opportunities for Fall 2024.
+      value: A self-motivated and resilient undergrad with a strong interest in AI-driven educational technologies. Currently seeking PhD opportunities for Fall 2024.
 
 - title: Education
   type: time_table
