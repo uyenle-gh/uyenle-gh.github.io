@@ -20,10 +20,4 @@ My research interests revolve around the complex interplay between students and 
 
 <strong>Keywords:</strong> human-computer interaction, AI, educational technology, AI-augmented learning systems
 
-<!-- <div style="font-weight: bold; font-size: 20px;">Publications:</div> -->
-
-<div class="publications">
-
-{% bibliography -f {{ site.scholar.bibliography }} %}
-
-</div>
+<hr>
