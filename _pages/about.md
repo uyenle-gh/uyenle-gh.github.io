@@ -19,5 +19,3 @@ I am an undergraduate student at Denison University, pursuing a BS in Applied Ma
 My research interests revolve around the complex interplay between students and AI-assisted learning tools in the digital age. I am particularly intrigued by how these advanced technologies are reshaping the educational landscape, impacting both the learning and teaching experiences. My graduate study goal is to leverage the multifaceted aspects of this interaction to develop intelligent learning systems that provide personalized learning content, feedback, and assessments.
 
 <strong>Keywords:</strong> human-computer interaction, AI, educational technology, AI-augmented learning systems
-
-<hr>
