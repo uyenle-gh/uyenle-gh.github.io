@@ -17,8 +17,7 @@
 - title: Education
   type: time_table
   contents:
-    - title: Bachelor of Science
-      subtitle: Applied Mathematics & Computer Science
+    - title: BSc, Applied Mathematics & Computer Science
       institution: Denison University
       year: 2023
       description: 
@@ -32,25 +31,22 @@
       institution: Stanford University, Dubra Lab
       year: 07/2023 - Now
       description:
-        - Conduct research on Adaptive Optics Systems for retinal imaging
-        - Develop an automated image registration algorithm to align snapshots of the retinas.
+        - Develop an automated image registration algorithm to align snapshots of the retinas from the Adaptive Optics Systems.
     
     - title: Software Engineer Intern
       institution: NCR Corporation, Payments and Networks
       year: 05/2023 - 08/2023
       description:
-        - Led the migration effort of NCR Payments Solutions built in Go and C++ to Azure Kubernetes Service.
-        - Incorporated Helm and Argo CD to drive continuous delivery.
+        - Led the migration effort of NCR Payments Solutions built in Go and C++ to Azure Kubernetes Service, with Helm and Argo CD for continuous delivery.
 
     - title: Research Fellow
       institution: National Center for Supercomputing Application, SciAuth Project
       year: 01/2023 - 04/2023
       description:
-        - Collaborated on a student-led research project in cybersecurity. 
         - Built a new module for the SciTokens library to generate sample tokens with custom payloads from the command-line.
 
     - title: Anderson Summer Research Scholar
-      institution: Denison University – Natural Language Processing Lab
+      institution: Denison University, NLP Lab
       year: 02/2022 - 08/2022
       description:
         - Fine-tuned three variants of BERT on SQuAD and experimented to evaluate the robustness of current machine reading comprehension models.
