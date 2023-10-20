@@ -17,11 +17,12 @@
 - title: Education
   type: time_table
   contents:
-    - title: Bachelor of Science, Applied Mathematics & Computer Science
+    - title: Bachelor of Science
+      subtitle: Applied Mathematics & Computer Science
       institution: Denison University
       year: 2023
       description: 
-      - <u>Relevant Courses:</u>  Artificial Intelligence, Parallel Computing, Computer Architecture, Database Design, Time Series Analysis, Applied Probability, Advanced Differential Equations, Complex & Real Analysis, Tilings
+      - <div>Relevant Courses:</div>  Artificial Intelligence, Parallel Computing, Computer Architecture, Database Design, Time Series Analysis, Applied Probability, Advanced Differential Equations, Complex & Real Analysis, Tilings
       
 
 - title: Experience
@@ -29,28 +30,28 @@
   contents:
     - title: Part-time Research Intern
       institution: Stanford University, Dubra Lab
-      year: Jul 2023 - Present
+      year: 07/2023 - Now
       description:
         - Conduct research on Adaptive Optics Systems for retinal imaging
         - Develop an automated image registration algorithm to align snapshots of the retinas.
     
     - title: Software Engineer Intern
       institution: NCR Corporation, Payments and Networks
-      year: May 2023 - Aug 2023
+      year: 05/2023 - 08/2023
       description:
         - Led the migration effort of NCR Payments Solutions built in Go and C++ to Azure Kubernetes Service.
         - Incorporated Helm and Argo CD to drive continuous delivery.
 
     - title: Research Fellow
       institution: National Center for Supercomputing Application, SciAuth Project
-      year: Jan 2023 - Apr 2023
+      year: 01/2023 - 04/2023
       description:
         - Collaborated on a student-led research project in cybersecurity. 
         - Built a new module for the SciTokens library to generate sample tokens with custom payloads from the command-line.
 
     - title: Anderson Summer Research Scholar
       institution: Denison University – Natural Language Processing Lab
-      year: Feb 2022 - Aug 2022
+      year: 02/2022 - 08/2022
       description:
         - Fine-tuned three variants of BERT on SQuAD and experimented to evaluate the robustness of current machine reading comprehension models.
         - Identified the advantages of fine-tuning models on additional unanswerable questions in improving robustness against adversarial attacks.
